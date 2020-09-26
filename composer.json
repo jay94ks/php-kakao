@@ -2,7 +2,7 @@
     "name": "jay94ks/php-kakao",
     "description": "KakaoTalk PHP SDK",
     "type": "library",
-    "license": "LGPLv2",
+    "license": "LGPL-2.1-only",
     "authors": [
         {
             "name": "jay94ks",
