@@ -1,6 +1,6 @@
 {
     "name": "jay94ks/php-kakao",
-    "description": "Kakao PHP Develope-Kit",
+    "description": "Kakao PHP API Wrapper",
     "type": "library",
     "license": "LGPL-2.1-only",
     "authors": [
