@@ -1,6 +1,6 @@
 {
     "name": "jay94ks/php-kakao",
-    "description": "KakaoTalk PHP SDK",
+    "description": "Kakao PHP DK",
     "type": "library",
     "license": "LGPL-2.1-only",
     "authors": [
