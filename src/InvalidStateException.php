@@ -8,7 +8,7 @@ namespace jay94ks\kakao;
  * @author jay94
  */
 class InvalidStateException extends \Exception {
-    function __construct(string $message = "", int $code = 0, \Throwable $previous = NULL): \Exception {
+    function __construct(string $message = "", int $code = 0, \Throwable $previous = NULL) {
         parent::__construct($message, $code, $previous);
     }
 }

@@ -67,7 +67,7 @@ class Profile extends Base {
         
         if ($Result->succeed) {
             $Token = $this->_User->getToken();
-            $Token->update(urldecode($Result->content));
+            $Token->update(json_decode($Result->content));
         }
         
         return $Result->succeed;
